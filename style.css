@@ -90,7 +90,7 @@ footer {
 }
 
 /* Ảnh đại diện */
-.avatar {
+.Avatar {
     width: 150px;
     height: 150px;
     border-radius: 50%; /* bo tròn */
@@ -351,3 +351,4 @@ footer {
 
 .prev { left: 10px; }
 .next { right: 10px; }
+
